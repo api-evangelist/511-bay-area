@@ -1,0 +1,369 @@
+{
+    "id": "fdd34e74debd94ed5c10093acbc442d1",
+    "name": "San Francisco 511",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "c6df9107ec552b5877991e84ccdbb3c9",
+            "name": "Operatorators API",
+            "url": "httpsapi.511.org\/transit\/operators",
+            "description": "San francisco 511 transit operatorators api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "5898911459eb4afd6047a280ac38c353",
+            "name": "San Francisco 511 Vehicle Monitoring API",
+            "url": "httpsapi.511.org\/transit\/VehicleMonitoring",
+            "description": "San francisco 511 vehicle monitoring api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "agency",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "stopCode",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "e95f312114c111d9a65ecf5244b07d91",
+            "name": "Stop Places API",
+            "url": "httpsapi.511.org\/transit\/stopPlaces",
+            "description": "San francisco 511 transit stop places api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "operator_id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "8b62a12195d11cb6d45fda78bb6dd93f",
+            "name": "San Francisco 511 General Announcements API",
+            "url": "httpsapi.511.org\/transit\/GeneralAnnouncements",
+            "description": "San francisco 511 general announcements api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "c4f6ed5047d6311b566502b73cbbf958",
+            "name": "Stop Timetable API",
+            "url": "httpsapi.511.org\/transit\/stoptimetable",
+            "description": "San francisco 511 transit stop timetable api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "MonitoringRef",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "OperatorRef",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "1e3784a1ec89cb12b25f7b27f685b8e9",
+            "name": "Stop Monitoring API",
+            "url": "httpsapi.511.org\/transit\/StopMonitoring",
+            "description": "San francisco 511 transit stop monitoring api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "agency",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "stopCode",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "b7c757e5b7340dee958b17a6da1f0786",
+            "name": "Stops API",
+            "url": "httpsapi.511.org\/transit\/stops",
+            "description": "San francisco 511 transit stops api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "operator_id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "b8456ed393afdcbc82d26213b367409b",
+            "name": "Transit Patterns API",
+            "url": "httpsapi.511.org\/transit\/patterns",
+            "description": "San francisco 511 transit transit patterns api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "operator_id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "pattern_id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        },
+        {
+            "id": "2c7991bc0ef66e65a8b434c00c1a0a66",
+            "name": "Lines API",
+            "url": "httpsapi.511.org\/transit\/lines",
+            "description": "San francisco 511 transit lines api.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "api_key",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "operator_id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "fdd34e74debd94ed5c10093acbc442d1",
+            "rawModeData": ""
+        }
+    ]
+}
