@@ -4,7 +4,7 @@
         "version": "",
         "title": "San Francisco 511",
         "description": "Open511 aims to create simple, uniform and resource driven APIs that can be easily used by consumers to retrieve data from 511.org. Using the new API is designed to be as simple as possible, and is available to all. Users of the API are required to obtain access tokens and must send those tokens as part of their request.",
-        "termsOfService": ""
+        "termsOfService": "https:\/\/511.org\/about\/terms"
     },
     "servers": [
         "httpsapi.511.org\/transit"
