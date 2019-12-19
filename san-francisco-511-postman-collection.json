@@ -1,5 +1,5 @@
 {
-    "id": "be79195f365f4df3d244d30d2526337b",
+    "id": "7f57f8b0d8b6657ab2ce8a9acd12586e",
     "name": "San Francisco 511",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "0b8eaeb434f0be6d2155dd8866e1619f",
+            "id": "edba6bfa496f06dedac516c35152c17d",
             "name": "Operatorators API",
             "url": "httpsapi.511.org\/transit\/operators",
             "description": "San francisco 511 transit operatorators api.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "46e15ff03cb5d226a6c342ad02ccd0a1",
+            "id": "7dabd6bc1c97403ddaa76782c403da8e",
             "name": "San Francisco 511 Vehicle Monitoring API",
             "url": "httpsapi.511.org\/transit\/VehicleMonitoring",
             "description": "San francisco 511 vehicle monitoring api.",
@@ -82,11 +82,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "524177fa6049033a82c4829e4434aaff",
+            "id": "04a9f6bc3854db24283ab8ab08ceec0a",
             "name": "Stop Places API",
             "url": "httpsapi.511.org\/transit\/stopPlaces",
             "description": "San francisco 511 transit stop places api.",
@@ -120,11 +120,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "deee061b5d56c00454fb62e47e1501d6",
+            "id": "01f0e7cd5374f9372f4de8b57876374f",
             "name": "San Francisco 511 General Announcements API",
             "url": "httpsapi.511.org\/transit\/GeneralAnnouncements",
             "description": "San francisco 511 general announcements api.",
@@ -151,11 +151,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "19c3810f20b8a73b930fb21f370b7976",
+            "id": "7dc3f3264bab12635e1bfecd243222ad",
             "name": "Stop Timetable API",
             "url": "httpsapi.511.org\/transit\/stoptimetable",
             "description": "San francisco 511 transit stop timetable api.",
@@ -196,11 +196,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "760aede092a9ed8507560105540e6fc7",
+            "id": "20dc2bf4b41949b516fb4d7eb807aad0",
             "name": "Stop Monitoring API",
             "url": "httpsapi.511.org\/transit\/StopMonitoring",
             "description": "San francisco 511 transit stop monitoring api.",
@@ -241,11 +241,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "4cfd417cc0f9020d064b02845e1439ac",
+            "id": "2c8eede05a7219a5c097f730565cea62",
             "name": "Stops API",
             "url": "httpsapi.511.org\/transit\/stops",
             "description": "San francisco 511 transit stops api.",
@@ -279,11 +279,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "0f077003dbb192b3c255f77ace9b2222",
+            "id": "f828eeeb09f6ced1b7dc30deb51b1b54",
             "name": "Transit Patterns API",
             "url": "httpsapi.511.org\/transit\/patterns",
             "description": "San francisco 511 transit transit patterns api.",
@@ -324,11 +324,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         },
         {
-            "id": "d190629011b6bcc8f51fa8c0c17dc77c",
+            "id": "719532129a13c46be211f2726c6ff3a7",
             "name": "Lines API",
             "url": "httpsapi.511.org\/transit\/lines",
             "description": "San francisco 511 transit lines api.",
@@ -362,7 +362,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "be79195f365f4df3d244d30d2526337b",
+            "collectionId": "7f57f8b0d8b6657ab2ce8a9acd12586e",
             "rawModeData": ""
         }
     ]
