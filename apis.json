@@ -7,35 +7,14 @@
         "api provider",
         "city government",
         "have api",
+        "new",
         "no api definition"
     ],
-    "created": "2019-12-18",
-    "modified": "2019-12-18",
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/511-bay-area\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
-        {
-            "name": "511 Bay Area",
-            "description": null,
-            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo_511_128x128_400x400.jpg",
-            "humanURL": "http:\/\/www.511.org\/",
-            "baseURL": "",
-            "tags": [],
-            "properties": [
-                {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/511-bay-area-openapi.json"
-                },
-                {
-                    "type": "x-openapi",
-                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/511-bay-area.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/511-bay-area-postman-collection.json"
-                }
-            ]
-        },
         {
             "name": "San Francisco 511",
             "description": null,
@@ -59,12 +38,44 @@
                 {
                     "type": "x-postman-collecction",
                     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/san-francisco-511-postman-collection.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/san-francisco-511-postman-collection.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/san-francisco-511-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/511.org\/about\/branding-logos"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/511.org\/about\/feedback"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/511.org\/about\/faq"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/511.org\/about\/partners"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/511.org\/about\/privacy"
+        },
         {
             "type": "Twitter",
             "url": "https:\/\/twitter.com\/511SFBay"
